@@ -2,6 +2,7 @@ h1{
     font-family: sans-serif;
     text-align: center;
     font-weight: bold;
+    color: lightblue;
 }
 
 #poster{
@@ -14,8 +15,21 @@ h1{
 }
 
 #text{
-    color: black;
+    color: white;
     background-color: black;
     text-align: center;
     text-transform: capitalize;
+}
+p{
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+*{
+    background-color: black;
+}
+
+img{
+    align-content: center;
 }
